@@ -1,6 +1,6 @@
 # other shit
 .env
-./README.md
+README.md
 
 # compiled output
 /dist
